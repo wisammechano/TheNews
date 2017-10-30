@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3fb578</color>
+    <color name="colorPrimaryDark">#308b5c</color>
+    <color name="colorAccent">#4340ff</color>
+    <color name="pressed_bg">#bababa</color>
+    <color name="even_bg">#e0e0e0</color>
+    <color name="odd_bg">#F9F9F9</color>
+</resources>
